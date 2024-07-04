@@ -34,7 +34,7 @@ chatbot_project/
 
 1. Install the necessary packages:
     ```bash
-    pip install speechrecognition gtts transformers torch numpy
+    pip install -r requirements.txt
     ```
 
 2. Ensure you have `mpg123` installed for Linux if not already available:

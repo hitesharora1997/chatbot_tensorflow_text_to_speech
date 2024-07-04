@@ -1,0 +1,5 @@
+speechrecognition
+gtts
+transformers
+torch
+numpy
