@@ -4,6 +4,7 @@ This project is a simple voice-activated chatbot that uses Google's Speech Recog
 
 ## Project Structure
 
+```
 chatbot_project/
 │
 ├── chatbot/
@@ -16,7 +17,7 @@ chatbot_project/
 ├── main.py
 │
 └── README.md
-
+```
 
 
 ## Files and Directories
@@ -28,7 +29,6 @@ chatbot_project/
   - **utilities.py**: Contains helper functions like `wake_up` and `action_time`.
   - **\_\_init\_\_.py**: Makes the directory a Python package.
 - **main.py**: The main entry point to run the chatbot.
-- **README.md**: This file.
 
 ## Setup
 
